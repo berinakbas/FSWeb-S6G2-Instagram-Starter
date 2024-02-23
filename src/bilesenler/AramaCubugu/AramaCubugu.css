@@ -9,6 +9,9 @@
 .search-form {
   width: 150px;
   font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
 }
 .search-form input {
   text-align: center;
